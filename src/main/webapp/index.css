@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+html {
+    font-size: 100%
+}
+.home{
+    text-align: center;
+    margin-top: 10%;
+}
+.home h1{
+    font-size:3rem;
+    margin:10px 0 42px;
+}
+#submit{
+    margin:20px;
+}
+
+#resister{
+    color: blue;
+}
+#message{
+    color:red;
+    font-size:2rem;
+}
